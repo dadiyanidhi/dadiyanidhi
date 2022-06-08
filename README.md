@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Nidhi Dadiya!](https://github.com/dadiyanidhi/)
+## Hey 👋, I'm Nidhi Dadiya! 🇮🇳
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/nidhi-dadiya-b1955b64)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nidhidadiya.com/)
@@ -10,8 +10,8 @@
 I'm a post graduate in Information Technology 🎓 from Dharmsinh Desai University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new challenges and technologies and integrate them to solve real-life problems ✨. Apart from that I also love to explore new places and people 👨🏻‍💻. I'm currently into Web Development 🕸️ and learning new JS stacks 🤓.
 
 - 💞️  I’m looking to collaborate on React JS, Node JS and Next JS
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: dadiyanidhi18@gmail.com.
+- 👾  Fun fact: Equal is Not Always Equal in Javascript.
+- 📫  How to reach me: dadiyanidhi18@gmail.com.
 
 <!---
 nidhidadiya/nidhidadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
